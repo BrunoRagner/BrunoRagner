@@ -1,27 +1,12 @@
-### Hi there 👋
-
 #Hi there 👋
-ola, tudo blzzzz ?
 
-Meu nome é Bruno, eu sou estudante de análise de sistema e desenvolvimento, atualmente freelancer e sigo minha caminhada transformando curiosidade é vontade de aprender em código!
+## ola, tudo  blzzzz ?
 
-    👨🏻‍💻 Front-end .
-    mag Atualmente aberto a novas oportunidades.
-    jornal Trabalho com Python (selenium), javascript. php, html e css.
-    satélite Neste momento busco colaborar com projetos Front-end ou analise de dados e automação
-    speech_balloon Sobre mim: Aficionado por natureza, séries de comédia e muita praia !!
+Meu nome é Bruno, eu sou estudante de análise de sistema e desenvolvimento, atualmente freelancer e sigo minha caminhada transformando  curiosidade é vontade de aprender em código!
 
+-   👨🏻‍💻 Front-end .
+-   ![mag](https://github.githubassets.com/images/icons/emoji/unicode/1f50d.png) Atualmente aberto a novas oportunidades.
+-   ![jornal](https://github.githubassets.com/images/icons/emoji/unicode/1f4f0.png) Trabalho com Python (selenium),javascript.php,html e css.
+-   ![satélite](https://github.githubassets.com/images/icons/emoji/unicode/1f4e1.png) Neste momento busco colaborar com projetos Front-end ou analise de dados e automação 
+-   ![speech_balloon](https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png) Sobre mim: Aficionado por  natureza, séries de comédia e  muita praia !!
 
-**BrunoRagner/BrunoRagner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
