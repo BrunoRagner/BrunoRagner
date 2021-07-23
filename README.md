@@ -1,16 +1,16 @@
-#Hi there 👋
+#Hi there 👋 
 
 ## ola, tudo  blzzzz 
-Welcome to my GitHub !!!
+Welcome to my GitHub !!! 🇧🇷 
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=BrunoRagenr.BrunoRagner) ![Github](https://img.shields.io/github/followers/BrunoRagner?label=Follow&style=social)
 
 
 
 🌐[My Blog](https://)
-- :nerd_face: :computer: I'm a Web Developer
-- :blue_heart: I love JavaScript
-- 🇧🇷 I'm Brazilian
+- :nerd_face: :computer: Eu sou um desenvolvedor web 
+- :blue_heart:Eu amo python
+
 
 Meu nome é Bruno, eu sou estudante de análise de sistema e desenvolvimento, atualmente freelancer e sigo minha caminhada transformando  curiosidade é vontade de aprender em código!
 #
