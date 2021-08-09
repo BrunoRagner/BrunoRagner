@@ -7,11 +7,6 @@ Welcome to my GitHub !!! 🇧🇷
 
 
 
-🌐[My Blog](https://)
-- :nerd_face: :computer: Eu sou um desenvolvedor web 
-- :blue_heart:Eu amo python
-
-
 Meu nome é Bruno, eu sou estudante de análise de sistema e desenvolvimento, atualmente freelancer e sigo minha caminhada transformando  curiosidade é vontade de aprender em código!
 #
 -   👨🏻‍💻 Front-end .
