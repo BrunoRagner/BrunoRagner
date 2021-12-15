@@ -7,7 +7,7 @@ Welcome to my GitHub !!! 🇧🇷
 
 
 
-Meu nome é Bruno, eu sou estudante de análise de sistema e desenvolvimento, atualmente freelancer e sigo minha caminhada transformando  curiosidade é vontade de aprender!!!
+
 #
 -   👨🏻‍💻 Front-end 
 #
