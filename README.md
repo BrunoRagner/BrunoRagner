@@ -29,6 +29,17 @@ hi, i'm [Bruno Ragner](https://), a passionate self-taught full stack web develo
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
+
+- 🔭 Atualmente estou trabalhando trabalnhado em projetos proprios
+- 👯 Eu procuro colaborar em **projetos de analise de dados e IA**
+
+- 💬 Me pergunte sobre **progamação,front-end,  analise de dados, ética em IA, carreira e etc - ficarei feliz em ajudar :)**
+- 📫 Fale comigo em ****
+- 📄 Saiba mais sobre mim em [https://www.linkedin.com/in/brunoragner](https://www.linkedin.com/in/brunoragner)
+- ⚡ Curiosidade sobre mim **Amo esportes e sou faixa  azul de jiu-jitis e treino boxe**
+
+
+
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💼 any freelance work? do reach, [email](brunooragnner@gmail.com) :)
@@ -69,13 +80,6 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 
 
-#
--   👨🏻‍💻 Front-end 
-#
-
-
-[Linkedin](https://www.linkedin.com/in/bruno-ragner-ab295a206/) 
-[Gmail](brunooragnner@gmail.com)
 
 
 #
@@ -84,14 +88,6 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 
 -->
-
-- 🔭 Atualmente estou trabalhando trabalnhado em projetos proprios
-- 👯 Eu procuro colaborar em **projetos de analise de dados e IA**
-
-- 💬 Me pergunte sobre **progamação,front-end,  analise de dados, ética em IA, carreira e etc - ficarei feliz em ajudar :)**
-- 📫 Fale comigo em ****
-- 📄 Saiba mais sobre mim em [https://www.linkedin.com/in/brunoragner](https://www.linkedin.com/in/brunoragner)
-- ⚡ Curiosidade sobre mim **Amo esportes e sou faixa  azul de jiu-jitis e treino boxe**
 
 
 
