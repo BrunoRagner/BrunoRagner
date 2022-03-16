@@ -30,13 +30,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 
 
-- 🔭 Atualmente estou trabalhando trabalnhado em projetos proprios
-- 👯 Eu procuro colaborar em **projetos de analise de dados e IA**
 
-- 💬 Me pergunte sobre **progamação,front-end,  analise de dados, ética em IA, carreira e etc - ficarei feliz em ajudar :)**
-- 📫 Fale comigo em ****
-- 📄 Saiba mais sobre mim em [https://www.linkedin.com/in/brunoragner](https://www.linkedin.com/in/brunoragner)
-- ⚡ Curiosidade sobre mim **Amo esportes e sou faixa  azul de jiu-jitis e treino boxe**
 
 
 
@@ -66,7 +60,13 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 
 <a href="https://www.buymeacoffee.com/brunooragns" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+- 🔭 Atualmente estou trabalhando trabalnhado em projetos proprios
+- 👯 Eu procuro colaborar em **projetos de analise de dados e IA**
 
+- 💬 Me pergunte sobre **progamação,front-end,  analise de dados, ética em IA, carreira e etc - ficarei feliz em ajudar :)**
+- 📫 Fale comigo em ****
+- 📄 Saiba mais sobre mim em [https://www.linkedin.com/in/brunoragner](https://www.linkedin.com/in/brunoragner)
+- ⚡ Curiosidade sobre mim **Amo esportes e sou faixa  azul de jiu-jitis e treino boxe**
 
 
 
