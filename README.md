@@ -1,4 +1,5 @@
 #Hi there 👋 
+![](https://visitor-badge.laobi.icu/badge?page_id=BrunoRagenr.BrunoRagner) ![Github](https://img.shields.io/github/followers/BrunoRagner?label=Follow&style=social)
 
 ## ola, tudo  blzzzz 
 Welcome to my GitHub !!! 🇧🇷 
@@ -75,7 +76,6 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 
 
-![](https://visitor-badge.laobi.icu/badge?page_id=BrunoRagenr.BrunoRagner) ![Github](https://img.shields.io/github/followers/BrunoRagner?label=Follow&style=social)
 
 
 
