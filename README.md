@@ -49,7 +49,7 @@ Latest commit f00e7d0 on 9 Oct 2021
 72 lines (58 sloc)  9.25 KB
   
 <p align="center">
-  <img src="https://github.com/kterra/kterra/raw/main/assets/header-github.gif" alt="Oi, eu sou a Kizzy">
+  <img src="https://github.com/kterra/kterra/raw/main/assets/header-github.gif" alt="Oi, eu sou a Bruno ">
 </p>
 
 <!--
@@ -61,14 +61,14 @@ This [GIF converter](https://ezgif.com/video-to-gif) help me to create a dedicat
 Then i save result to [assets/github.gif](assets/github.gif)
 -->
 
-- 🔭 Atualmente estou trabalhando no [Programação Dinâmica](https://www.youtube.com/programacaodinamica) e na [ALFORRIAH](https://www.alforriah.com/)
-- 👯 Eu procuro colaborar em **projetos de ciência de dados e IA**
-- 📝 Eu regularmente escrevo em [https://medium.com/programacaodinamica](https://medium.com/programacaodinamica)
-- 💬 Me pergunte sobre **tecnologia, ciência de dados, ética em IA, carreira e etc - ficarei feliz em ajudar :)**
-- 📫 Fale comigo em **kizzy@pgdinamica.com**
-- 📄 Saiba mais sobre mim em [https://www.linkedin.com/in/kizzyterra](https://www.linkedin.com/in/kizzyterra)
-- ⚡ Curiosidade sobre mim **Amo esportes e sou faixa marrom de karatê🥋**
-- Habilidades: me comunico bem (confira um vídeo [meu](https://www.youtube.com/watch?v=qAUbkKtqqZA)), gosto de trabalhar em equipe, fluente inglês, me sinto confiante para construir produtos e servicos de software
+- 🔭 Atualmente estou trabalhando trabalnhado em projetos proprios
+- 👯 Eu procuro colaborar em **projetos de analise de dados e IA**
+
+- 💬 Me pergunte sobre **progamação,front-end,  analise de dados, ética em IA, carreira e etc - ficarei feliz em ajudar :)**
+- 📫 Fale comigo em ****
+- 📄 Saiba mais sobre mim em [https://www.linkedin.com/in/brunoragner](https://www.linkedin.com/in/brunoragner)
+- ⚡ Curiosidade sobre mim **Amo esportes e sou faixa  azul de jiu-jitis e treino boxe**
+- Habilidades: me comunico bem (confira um vídeo [meu](atch?v=qAUbkKtqqZA)), gosto de trabalhar em equipe, me sinto confiante para construir produtos e servicos de software
 
 <details>
   <summary><b>🛠️ Algumas linguagens e ferramentas que eu uso:</b></summary>
