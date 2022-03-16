@@ -1,7 +1,7 @@
-#Hi there 👋 
+
 ![](https://visitor-badge.laobi.icu/badge?page_id=BrunoRagenr.BrunoRagner) ![Github](https://img.shields.io/github/followers/BrunoRagner?label=Follow&style=social)
 
-## ola, tudo  blzzzz 
+
 Welcome to my GitHub !!! 🇧🇷 
 
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
@@ -45,25 +45,21 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-
-
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
 
 <!--END_SECTION:waka-->
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+if you like what i do, maybe consider buying me a coffee/tea ou uma pizza 🥺👉👈
 
 
 
 <a href="https://www.buymeacoffee.com/brunooragns" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 - 🔭 Atualmente estou trabalhando trabalnhado em projetos proprios
 - 👯 Eu procuro colaborar em **projetos de analise de dados e IA**
-
 - 💬 Me pergunte sobre **progamação,front-end,  analise de dados, ética em IA, carreira e etc - ficarei feliz em ajudar :)**
 - 📫 Fale comigo em ****
 - 📄 Saiba mais sobre mim em [https://www.linkedin.com/in/brunoragner](https://www.linkedin.com/in/brunoragner)
@@ -71,23 +67,10 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 #
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoRagner&theme=light">
 
 
-
--->
 
 
 
