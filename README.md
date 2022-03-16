@@ -56,8 +56,8 @@ if you like what i do, maybe consider buying me a coffee/tea ou uma pizza 🥺�
 
 
 <a href="https://www.buymeacoffee.com/brunooragns" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-- 🔭 Atualmente estou trabalhando trabalnhado em projetos proprios
-- 👯 Eu procuro colaborar em **projetos de analise de dados e IA**
+- 🔭 Atualmente estou trabalhando em projetos proprios
+- 👯 Eu procuro colaborar em **projetos de analise de dados, IA*, FRONT-END*
 - 💬 Me pergunte sobre **progamação,front-end,  analise de dados, ética em IA, carreira e etc - ficarei feliz em ajudar :)**
 - 📫 Fale comigo em ****
 - 📄 Saiba mais sobre mim em [https://www.linkedin.com/in/brunoragner](https://www.linkedin.com/in/brunoragner)
