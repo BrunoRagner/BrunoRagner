@@ -1,5 +1,5 @@
 
-![](https://visitor-badge.laobi.icu/badge?page_id=BrunoRagenr.BrunoRagner) ![Github](https://img.shields.io/github/followers/BrunoRagner?label=Follow&style=social)
+
 
 
 Welcome to my GitHub !!! 🇧🇷 
@@ -19,7 +19,7 @@ Welcome to my GitHub !!! 🇧🇷
 </a>
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+![](https://visitor-badge.laobi.icu/badge?page_id=BrunoRagenr.BrunoRagner) ![Github](https://img.shields.io/github/followers/BrunoRagner?label=Follow&style=social)
 
 <br />
 
