@@ -63,7 +63,7 @@ if you like what i do, maybe consider buying me a coffee/tea ou uma pizza ðŸ¥ºðŸ
 
 #
 
- ![Snake animation](https://github.com/vgavazoni/vgavazoni/blob/output/github-contribution-grid-snake.svg)
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brunoragner&show_icons=true&locale=en&layout=compact" alt="brunoragner" /></p>
 
